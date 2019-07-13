@@ -1,0 +1,16 @@
+{
+"companyName": "AMR Studios",
+"productName": "Death Arena",
+"productVersion": "2.1",
+"dataUrl": "deraphel.github.io.data.unityweb",
+"wasmCodeUrl": "deraphel.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "deraphel.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
