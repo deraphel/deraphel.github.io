@@ -5,8 +5,7 @@ This is the website that I will be using to release my games and allow users to 
 # List of Games
 
 ## Play Online
-[Bumpy Road (Demo)](http://deraphel.github.io/bumpyroad)
-
+##[Bumpy Road (Demo)](http://deraphel.github.io/bumpyroad)
 ### Instructions
 Use [A] and [D] to brake and accelerate your vehicle respectively
 
