@@ -14,7 +14,7 @@ This is the website that I will be using to release my games and allow users to 
   * If you lose, you start at the first level again
 
 ## Download
-[Bumpy Road (Demo)](http://deraphel.github.io/bumpyroad)
+[Bumpy Road (Demo)](https://github.com/deraphel/bumpyroad)
 
 # Support/Suggestions/Bug Reports
 
