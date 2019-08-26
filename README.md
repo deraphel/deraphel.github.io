@@ -5,11 +5,11 @@ This is the website that I will be using to release my games and allow users to 
 # List of Games
 
 ## Play Online
-[Bumpy Road (Demo)](http://google.com)
+[Bumpy Road (Demo)](http://google.com) \n
 [Roguelike Prototype](http://google.com)
 
 ## Download
-[Bumpy Road (Demo)](http://google.com)
+[Bumpy Road (Demo)](http://google.com) \n
 [Roguelike Prototype](http://google.com)
 
 # Support/Suggestions/Bug Reports
