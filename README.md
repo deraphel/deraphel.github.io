@@ -5,14 +5,10 @@ This is the website that I will be using to release my games and allow users to 
 # List of Games
 
 ## Play Online
-[Bumpy Road (Demo)](http://google.com)
-
-[Roguelike Prototype](http://google.com)
+[Bumpy Road (Demo)](http://deraphel.github.io/bumpyroad)
 
 ## Download
-[Bumpy Road (Demo)](http://google.com)
-
-[Roguelike Prototype](http://google.com)
+[Bumpy Road (Demo)](http://deraphel.github.io/bumpyroad)
 
 # Support/Suggestions/Bug Reports
 
