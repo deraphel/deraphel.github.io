@@ -1,35 +1,17 @@
-## Welcome to AMR Studios
+### Welcome to AMR Studios
 
-You can use the [editor on GitHub](https://github.com/deraphel/deraphel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the website that I will be using to release my games and allow users to play my games online instead of downloading them.
 
-### Markdown
+### List of Games
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Play Online
+[Bumpy Road (Demo)](http://google.com)
+[Roguelike Prototype](http://google.com)
 
-```markdown
-Syntax highlighted code block
+## Download
+[Bumpy Road (Demo)](http://google.com)
+[Roguelike Prototype](http://google.com)
 
-# Header 1
-## Header 2
-### Header 3
+### Support/Suggestions/Bug Reports
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deraphel/deraphel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like to report bugs, make suggestions, or get in contact with me, please send me an email at deraphel@gmail.com. I will try to reply to your emails as soon as possible.
