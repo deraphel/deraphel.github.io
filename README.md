@@ -6,14 +6,12 @@ This is the website that I will be using to release my games and allow users to 
 
 ## Play Online
 [Bumpy Road (Demo)](http://deraphel.github.io/bumpyroad)
-**___Instructions___**
-Use [A] and [D] to brake and accelerate your vehicle respectively
 
-Press [Space Bar] to jump over obstacles
-
-Drive to the end of the road to unlock the next level
-
-If you lose, you start at the first level again
+#### Instructions
+..* Use [A] and [D] to brake and accelerate your vehicle respectively
+..* Press [Space Bar] to jump over obstacles
+..* Drive to the end of the road to unlock the next level
+..* If you lose, you start at the first level again
 
 ## Download
 [Bumpy Road (Demo)](http://deraphel.github.io/bumpyroad)
