@@ -2,16 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/deraphel/deraphel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
----
-title: "Death Arena"
-date: 2019-07-12
-unity_dir: game_post
-categories:
-  - General
-tags:
-  - test
----
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
